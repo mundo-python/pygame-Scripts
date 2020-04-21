@@ -1,3 +1,10 @@
+#
+#
+# TUTORIAL DE PONG
+# CREADOR: MUNDO PYTHON
+# YOUTUBE CHANNEL: MUNDO PYTHON
+#
+#
 import pygame
 pygame.init()
 
